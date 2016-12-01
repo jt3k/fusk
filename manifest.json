@@ -22,9 +22,8 @@
       "sizes": "256x256",
       "type": "image/png"
     }],
-  "start_url": "/",
+  "start_url": "/fusk/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#35817e",
-  "splash_pages": null
+  "theme_color": "#35817e"
 }
