@@ -22,7 +22,7 @@
       "sizes": "256x256",
       "type": "image/png"
     }],
-  "start_url": "/fusk",
+  "start_url": "https://jt3k.github.io/fusk/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#35817e",
